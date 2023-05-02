@@ -1,5 +1,5 @@
 tarot_deck = {
-    "0": {
+    "1": {
         "name": "The Fool",
         "description": "A young man stands at the edge of a cliff, looking up towards the sky with his head in the clouds. He carries a bag on a stick over his shoulder and a white rose in his hand. The sun rises behind him, casting a yellow glow over the scene.",
         "normal past": "A time of new beginnings and fresh starts. A time of taking risks and following your heart. You may have made some impulsive decisions in the past, but they have led you to where you are now.",
@@ -13,7 +13,7 @@ tarot_deck = {
         "normal love": "You may be starting a new relationship or taking a significant step forward in your current relationship. It is important to trust your instincts and be open to new experiences.",
         "upsidedown love": "You may be feeling uncertain or insecure in your current relationship. It is important to communicate openly and honestly with your partner in order to work through any issues."
     },
-    "1": {
+    "2": {
         "name": "The Magician",
         "description": "A man stands behind a table, holding a wand in one hand and pointing to the sky with the other. On the table in front of him are a cup, a sword, a wand, and a coin. A snake wraps around his waist, symbolizing transformation and renewal. In the background, there is a garden with a fruit tree and a serpent.",
         "normal past": "A time of new beginnings and opportunities. You may have been able to manifest your desires and achieve your goals through your own talents and abilities.",
@@ -27,7 +27,7 @@ tarot_deck = {
         "normal love": "You may be starting a new relationship or taking a significant step forward in your current relationship. You have the charisma and charm to make things happen, and you can manifest your desires through your own actions.",
         "upsidedown love": "You may be feeling unsure of yourself or lacking confidence in your current relationship. You may need to communicate more openly and honestly with your partner, and focus on your own needs and desires in order to create a stronger connection."
     },
-    "2": {
+    "3": {
         "name": "The High Priestess",
         "description": "A woman sits on a throne between two pillars, holding a scroll in her lap. She wears a crown and a white veil, and her robes are blue and adorned with pomegranates. Behind her is a curtain with a crescent moon and a star, symbolizing intuition and hidden knowledge.",
         "normal past": "A time of introspection and inner exploration. You may have been seeking hidden knowledge or wisdom, and may have had to trust your intuition in order to make important decisions.",
@@ -41,7 +41,7 @@ tarot_deck = {
         "normal love": "You may be entering a phase of self-discovery in your love life. You may be learning more about yourself and your desires, and trusting your intuition to guide you in your relationships.",
         "upsidedown love": "You may be ignoring your intuition or inner voice in your current relationship. It is important to take the time to reflect and listen to your instincts in order to create a stronger connection with your partner."
     },
-    "3": {
+    "4": {
         "name": "The Empress",
         "description": "A woman sits on a throne in a field of wheat, surrounded by lush vegetation and a flowing river. She wears a crown of stars and a robe adorned with a heart-shaped shield. She holds a scepter in one hand and a shield with the symbol of Venus in the other, symbolizing love, fertility, and abundance.",
         "normal past": "A time of abundance and nurturing. You may have experienced growth and prosperity, and may have had supportive people or circumstances in your life.",
@@ -55,7 +55,7 @@ tarot_deck = {
         "normal love": "You may be experiencing a period of growth and abundance in your love life. You may be surrounded by supportive people or circumstances, and may be experiencing an increase in love and affection.",
         "upsidedown love": "You may be experiencing a lack of love or nurturing in your current relationship. It is important to focus on self-care and seek out opportunities or people that can help you grow and prosper together."
     },
-    "4": {
+    "5": {
         "name": "The Emperor",
         "description": "A man sits on a throne, wearing armor and a red cape. He holds a scepter in one hand and a globe in the other, symbolizing his power and authority over the world. His throne is adorned with rams' heads, representing his strength and determination.",
         "normal past": "A time of stability and authority. You may have had a strong leader or role model in your life, or may have experienced a sense of security and control.",
@@ -69,7 +69,7 @@ tarot_deck = {
         "normal love": "You may be experiencing stability and commitment in your love life. You and your partner may have a strong sense of partnership and mutual respect.",
         "upsidedown love": "You may be feeling out of control or lacking authority in your current relationship. It is important to communicate openly and honestly with your partner, and to assert yourself in order to create a stronger connection."
     },
-    "5": {
+    "6": {
         "name": "The Hierophant",
         "description": "A man sits on a throne, wearing a red robe and a triple crown. He holds a scepter in one hand and makes a blessing gesture with the other. Two acolytes kneel before him, representing tradition and conformity. Behind him is a stained glass window with the symbol of the cross, symbolizing faith and religion.",
         "normal past": "A time of conformity and tradition. You may have followed the rules or expectations of others, or may have looked to a leader or mentor for guidance.",
@@ -83,7 +83,7 @@ tarot_deck = {
         "normal love": "You may be following traditional or established customs in your love life, or may be seeking guidance from a mentor or religious leader. You may be seeking a partner who shares your values and beliefs.",
         "upsidedown love": "You may be feeling like an outsider or rebel in your current relationship. It is important to stay true to your values and beliefs, even if they don't align with traditional or established customs."
     },
-    "6": {
+    "7": {
         "name": "The Lovers",
         "description": "A man and a woman stand facing each other, surrounded by a bright light. They are naked and stand in front of a tree with a serpent coiled around it, representing temptation and knowledge. Above them is a winged figure, possibly an angel or Cupid, symbolizing divine guidance.",
         "normal past": "A time of important choices and decisions. You may have faced a significant decision in your past that led to major changes in your life.",
@@ -97,7 +97,7 @@ tarot_deck = {
         "normal love": "You may be facing an important choice or decision in your love life, such as whether to commit to a long-term relationship or pursue other options. It is important to consider your values and priorities in order to make the best decision for yourself.",
         "upsidedown love": "You may be feeling unsure or indecisive in your current relationship. It is important to reflect on your values and priorities in order to determine the best course of action."
     },
-    "7": {
+    "8": {
         "name": "The Chariot",
         "description": "A man stands in a chariot, holding a scepter and reins attached to two sphinxes, one black and one white, symbolizing opposing forces. He wears a crown of stars and a breastplate adorned with the crescent moon, symbolizing intuition and hidden knowledge.",
         "normal past": "A time of achievement and victory. You may have accomplished a major goal or overcome a significant challenge in your past.",
@@ -111,7 +111,7 @@ tarot_deck = {
         "normal love": "You may be experiencing success and achievement in your love life. You and your partner may be overcoming obstacles or accomplishing important goals together.",
         "upsidedown love": "You may be experiencing setbacks or delays in your current relationship. It is important to stay focused and determined in order to overcome these obstacles and create a stronger connection with your partner."
     },
-    "8": {
+    "9": {
         "name": "Strength",
         "description": "A woman tames a lion with her bare hands, symbolizing the power of inner strength and courage. She wears a white robe and a crown of flowers, representing purity and grace.",
         "normal past": "A time of overcoming challenges and difficulties. You may have faced a difficult situation in your past that required inner strength and courage to overcome.",
@@ -125,7 +125,7 @@ tarot_deck = {
         "normal love": "You may be experiencing a phase of inner strength and courage in your love life. You may be facing challenges or difficulties, but you have the power to overcome them through your inner strength and love for your partner.",
         "upsidedown love": "You may be feeling weak or lacking in courage in your current relationship. It is important to focus on cultivating your inner strength and love in order to overcome any challenges or difficulties that may arise."
     },
-    "9": {
+    "10": {
         "name": "The Hermit",
         "description": "An old man stands alone on a mountaintop, holding a staff and a lantern. He wears a gray cloak and has a long white beard, representing wisdom and experience. The lantern represents the light of inner truth and knowledge.",
         "normal past": "A time of introspection and self-discovery. You may have spent time alone or withdrawn from social situations in order to focus on personal growth.",
@@ -139,7 +139,7 @@ tarot_deck = {
         "normal love": "You may be in a phase of introspection and self-discovery in your love life. You may be taking time to reflect on your values and priorities in order to find a deeper connection with your partner.",
         "upsidedown love": "You may be feeling lost or disconnected in your current relationship. It is important to take time for introspection and self-discovery in order to find clarity and direction."
     },
-    "10": {
+    "11": {
         "name": "The Wheel of Fortune",
         "description": "A wheel with three figures sits at the center of the card. A snake, a lion, and an eagle represent the three elements of alchemy: mercury, sulfur, and salt. The wheel is surrounded by symbols of the four elements: earth, air, fire, and water.",
         "normal past": "A time of change and transformation. You may have experienced a major shift in your life or a significant change in circumstances.",
@@ -153,7 +153,7 @@ tarot_deck = {
         "normal love": "You may be experiencing a major shift or transition in your love life. You may need to adapt to new circumstances or explore new opportunities.",
         "upsidedown love": "You may be struggling to adapt to changes or transitions in your current relationship. It is important to stay flexible and open-minded in order to navigate these challenges."
     },
-    "11": {
+    "12": {
         "name": "Justice",
         "description": "A woman sits on a throne holding a sword and scales. The sword represents the power of reason and clarity of thought, while the scales represent balance and fairness.",
         "normal past": "A time of fairness and balance. You may have experienced a situation in your past that required justice or involved legal matters.",
@@ -167,7 +167,7 @@ tarot_deck = {
         "normal love": "You may be experiencing fairness and balance in your love life. You and your partner may have a strong sense of trust and mutual respect.",
         "upsidedown love": "You may be feeling a sense of injustice or imbalance in your current relationship. It is important to strive for fairness and balance, even if it requires difficult decisions or actions."
     },
-    "12": {
+    "13": {
         "name": "The Hanged Man",
         "description": "A man hangs upside down from a tree, with one foot tied to the tree and the other crossed over it. His arms are behind his back, forming a triangle, and his face is peaceful and serene. The tree represents the world tree of Norse mythology, and the upside-down triangle represents the connection between the physical world and the spiritual realm.",
         "normal past": "A time of surrender and letting go. You may have experienced a significant loss or had to give up something important in your past.",
@@ -181,7 +181,7 @@ tarot_deck = {
         "normal love": "You may be experiencing a phase of surrender and letting go in your love life. You may need to release control or give up something important in order to create a stronger connection with your partner.",
         "upsidedown love": "You may be struggling to let go of something in your current relationship, or may be resisting surrender. It is important to release control and trust in the process in order to create a stronger connection with your partner."
     },
-    "13": {
+    "14": {
         "name": "Death",
         "description": "A skeleton in black armor rides a white horse, carrying a black flag with a white rose. The horse tramples over a king, a bishop, and a maiden, representing the three estates of feudal society. The sun sets in the background, symbolizing the end of a cycle and the beginning of a new one.",
         "normal past": "A time of significant change and transformation. You may have experienced the end of a cycle or the death of something important in your past.",
@@ -195,7 +195,7 @@ tarot_deck = {
         "normal love": "You may be experiencing the end of a cycle or the death of something important in your love life. You may need to let go of old patterns or ways of being in order to create space for something new.",
         "upsidedown love": "You may be resisting change or transformation in your current relationship, or may be holding onto something that is no longer serving you. It is important to embrace change and let go of what is no longer needed in order to create space for something new."
     },
-    "14": {
+    "15": {
         "name": "Temperance",
         "description": "An angel stands with one foot on land and the other in a stream of water. The angel pours water from one cup to another, representing the balance and harmony of opposites. The sun represents clarity and enlightenment, and the triangle on the angel's chest represents the connection between body, mind, and spirit.",
         "normal past": "A time of balance and harmony. You may have experienced a period of inner peace or external stability in your past.",
@@ -209,7 +209,7 @@ tarot_deck = {
         "normal love": "You may be experiencing balance and harmony in your love life. You and your partner may have a strong sense of mutual respect and understanding.",
         "upsidedown love": "You may be feeling a sense of imbalance or disharmony in your current relationship. It is important to find ways to bring balance and harmony back into your love life."
     },
-    "15": {
+    "16": {
         "name": "The Devil",
         "description": "A horned devil figure stands on a pedestal, with a man and a woman chained to the pedestal below. The devil holds a torch and a pitchfork, representing temptation and power. The chains around the man and woman's necks are loose, indicating that they have the power to break free from their own limitations.",
         "normal past": "A time of temptation and temptation. You may have experienced a situation in your past where you were tempted by something or someone.",
@@ -223,7 +223,7 @@ tarot_deck = {
         "normal love": "You may be facing a situation in your love life where you feel tempted or powerless. It is important to recognize your own power and ability to make choices.",
         "upsidedown love": "You may be feeling a sense of powerlessness or vulnerability in your current relationship. It is important to recognize your own power and ability to make choices."
     },
-    "16": {
+    "17": {
         "name": "The Tower",
         "description": "A tall tower is struck by lightning, with flames and debris falling from it. Two figures, a man and a woman, fall from the tower. The tower represents false beliefs and illusions, and the lightning represents the awakening of truth.",
         "normal past": "A time of sudden change or upheaval. You may have experienced a situation in your past where something you believed to be true was revealed to be false.",
@@ -237,7 +237,7 @@ tarot_deck = {
         "normal love": "You may be experiencing a sudden change or upheaval in your love life. It is important to stay grounded and focused on your values and priorities.",
         "upsidedown love": "You may be resisting change or clinging to false beliefs in your current relationship, leading to a negative outcome. It is important to embrace change and let go of what is no longer serving you."
     },
-    "17": {
+    "18": {
         "name": "The Star",
         "description": "A naked woman kneels beside a pool of water, with one foot on land and the other in the water. She pours water from two cups, one into the pool and one onto the ground. Above her, a large star shines in the night sky. The star represents hope, inspiration, and a sense of connection to the divine.",
         "normal past": "A time of inspiration and connection to something greater than yourself. You may have experienced a period of spiritual growth or a sense of connection to the divine in your past.",
@@ -251,7 +251,7 @@ tarot_deck = {
         "normal love": "You may be experiencing inspiration and a sense of connection to your partner in your love life. You and your partner may share a strong sense of mutual respect and understanding.",
         "upsidedown love": "You may be feeling disconnected or uninspired in your current relationship. It is important to find ways to connect with your partner and reignite the spark in your relationship."
     },
-    "18": {
+    "19": {
         "name": "The Moon",
         "description": "A moonlit landscape with a full moon in the sky. A wolf and a dog howl at the moon, and a crayfish emerges from a pool of water. The moon represents the subconscious mind, intuition, and hidden emotions.",
         "normal past": "A time of mystery and hidden emotions. You may have experienced a situation in your past where your intuition or subconscious mind played a significant role.",
@@ -265,7 +265,7 @@ tarot_deck = {
         "normal love": "You may be experiencing a phase of mystery or uncertainty in your love life. It is important to trust your intuition and communicate openly with your partner.",
         "upsidedown love": "You may be feeling confused or uncertain about your current relationship. It is important to communicate openly with your partner and trust your intuition."
     },
-    "19": {
+    "20": {
         "name": "The Sun",
         "description": "A child rides on a white horse, holding a banner with the symbol of the sun. Sunflowers bloom in the background, and the sun shines brightly in the sky. The sun represents positivity, growth, and vitality.",
         "normal past": "A time of positivity and growth. You may have experienced a period of success or a sense of momentum in your past.",
@@ -279,7 +279,7 @@ tarot_deck = {
         "normal love": "You may be experiencing a phase of positivity and growth in your love life. You and your partner may be growing closer and feeling a sense of momentum.",
         "upsidedown love": "You may be feeling blocked or stagnant in your current relationship. It is important to focus on the positive aspects and find ways to reignite your sense of vitality."
     },
-    "20": {
+    "21": {
         "name": "Judgment",
         "description": "An angel blows a trumpet, with people rising from their graves below. The angel represents a call to awakening and transformation, while the rising figures represent the potential for renewal and rebirth.",
         "normal past": "A time of awakening and transformation. You may have experienced a significant change or realization in your past.",
@@ -293,7 +293,7 @@ tarot_deck = {
         "normal love": "You may be experiencing a significant change or realization in your love life. It is important to embrace this transformation and communicate openly with your partner.",
         "upsidedown love": "You may be resisting change or transformation in your current relationship, leading to a negative outcome. It is important to let go of what is no longer serving you and communicate openly with your partner."
     },
-    "21": {
+    "22": {
         "name": "The World",
         "description": "A naked woman dances in the center of a circle, surrounded by a wreath of leaves. In each corner of the card, a winged creature holds a symbol of the four elements: a lion for fire, a bull for earth, an eagle for air, and an angel for water. The World represents completion, wholeness, and a sense of fulfillment.",
         "normal past": "A time of completion and fulfillment. You may have experienced a significant accomplishment or sense of achievement in your past.",
@@ -306,20 +306,6 @@ tarot_deck = {
         "upsidedown career": "You may be feeling incomplete or unfulfilled in your current career path. It is important to focus on what brings you a sense of purpose and meaning, and take steps to achieve your goals.",
         "normal love": "You may be experiencing a sense of completion or fulfillment in your love life. You and your partner may have achieved a significant milestone or reached a new level of intimacy.",
         "upsidedown love": "You may be feeling incomplete or unfulfilled in your current relationship. It is important to communicate openly with your partner and focus on what brings you a sense of purpose and meaning."
-    },
-    "22": {
-        "name": "The Fool",
-        "description": "A young man stands at the edge of a cliff, holding a staff and a small sack. He is accompanied by a dog, who appears to be warning him of the danger ahead. The Fool represents new beginnings, taking risks, and stepping into the unknown.",
-        "normal past": "A time of new beginnings and taking risks. You may have experienced a significant change or taken a leap of faith in your past.",
-        "upsidedown past": "You may have missed an opportunity for a new beginning or taking a risk in your past, or may have made a reckless decision that had negative consequences.",
-        "normal present": "You are currently in a phase of new beginnings and taking risks. You may be stepping into the unknown or embarking on a new adventure.",
-        "upsidedown present": "You may be feeling fearful or hesitant to take a risk in your current situation. It is important to trust your intuition and take calculated risks.",
-        "normal future": "You will soon enter a phase of new beginnings and taking risks. You may be presented with an opportunity to step into the unknown.",
-        "upsidedown future": "You may face challenges in the future that require you to take a risk or step into the unknown. It is important to trust your intuition and take calculated risks.",
-        "normal career": "You may be experiencing a phase of new beginnings or taking a risk in your career path. It is important to trust your instincts and take calculated risks.",
-        "upsidedown career": "You may be feeling fearful or hesitant to take a risk in your current career path. It is important to trust your instincts and take calculated risks.",
-        "normal love": "You may be experiencing a phase of new beginnings or taking a risk in your love life. It is important to trust your instincts and communicate openly with your partner.",
-        "upsidedown love": "You may be feeling fearful or hesitant to take a risk in your current relationship. It is important to trust your instincts and communicate openly with your partner."
     },
     "23": {
         "name": "Ace of Wands",
