@@ -16,7 +16,7 @@ def get_reading(reading_type, question):
 
     if random_int == 1:
         print(
-            f"{td.tarot_deck[random_card]['name']}\n{td.tarot_deck[random_card]['description']}\n{td.tarot_deck[random_card][f'normal {reading_type}']}")
+            f"{td.tarot_deck[random_card]['name']} normal\n{td.tarot_deck[random_card]['description']}\n{td.tarot_deck[random_card][f'normal {reading_type}']}")
     else:
         print(
             f"{td.tarot_deck[random_card]['name']} reversed\n{td.tarot_deck[random_card]['description']}\n{td.tarot_deck[random_card][f'upsidedown {reading_type}']}")
@@ -42,15 +42,18 @@ def theDraw(how_many, question):
 
 
 def main():
-    print("Welcome to the Tarot Deck, a tool for divination and self reflection")
-    print("type 1 for past, 2 for present, 3 for future, 4 for career, 5 for love")
+    print("Welcome to the Tarot Deck, a tool for divination and self reflection\n\n"
+          "This deck is based on the Rider-Waite tarot deck, and is a 78 card deck\n"
+          "The deck is split into 22 major arcana cards and 56 minor arcana cards\n"
+          "Type in the numbers associated with the spread you would like to use\n"
+          "type 1 for past, 2 for present, 3 for future, 4 for career, 5 for love")
     how_many = input("Enter the number associated with the spread you would like to use: \n")
 
     print("\n")
 
-    answer = input("How many times do you want the deck shuffled? ")
+    answer = input("How many times do you want the deck shuffled? \n")
     print("Take some time to sit with the deck as you shuffle it")
-    time_answer = int(input("how long would you like to work with the deck (in seconds)? "))
+    time_answer = int(input("how long would you like to work with the deck (in seconds)? \n"))
     time.sleep(time_answer)
 
     for i in range(int(answer)):
@@ -66,7 +69,7 @@ def main():
 
     print(f"{count} cards have been drawn, you have {len(td_keys)} cards left in the deck \n"
           "Go with peace for the foreknowledge you have gained may change your path for the better \n"
-          "or the worse, but you will be prepared for what is to come")
+          "or the worse, but will you be prepared for what is to come?")
 
 
 if __name__ == "__main__":
