@@ -46,8 +46,10 @@ def main():
           "This deck is based on the Rider-Waite tarot deck, and is a 78 card deck\n"
           "The deck is split into 22 major arcana cards and 56 minor arcana cards\n"
           "Type in the numbers associated with the spread you would like to use\n"
-          "type 1 for past, 2 for present, 3 for future, 4 for career, 5 for love")
+          "type 1 for past, 2 for present, 3 for future, 4 for career, 5 for love or type all for all")
     how_many = input("Enter the number associated with the spread you would like to use: \n")
+    if how_many == "all":
+        how_many = "12345"
 
     print("\n")
 
