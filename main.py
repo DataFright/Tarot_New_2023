@@ -37,6 +37,8 @@ def theDraw(how_many, question):
     for i in how_many:
         if i in reading_types:
             get_reading(reading_types[i], question)
+        elif i == " ":
+            pass
         else:
             print(f"\n{i} is an invalid input, please try again\n")
 
