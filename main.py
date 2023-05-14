@@ -47,7 +47,7 @@ def main():
           "The deck is split into 22 major arcana cards and 56 minor arcana cards\n"
           "Type in the numbers associated with the spread you would like to use\n"
           "type 1 for past, 2 for present, 3 for future, 4 for career, 5 for love or type all for all")
-    how_many = input("Enter the number associated with the spread you would like to use: \n")
+    how_many = input("Enter the number associated with the spread you would like to use: \n").lower()
     if how_many == "all":
         how_many = "12345"
 
@@ -70,7 +70,7 @@ def main():
     theDraw(how_many, question)
 
     print(f"{count} cards have been drawn, you have {len(td_keys)} cards left in the deck \n"
-          "Go with peace for the foreknowledge you have gained may change your path for the better \n"
+          "Go in peace with the foreknowledge you have gained. It may change your path for the better \n"
           "or the worse, but will you be prepared for what is to come?")
 
 
